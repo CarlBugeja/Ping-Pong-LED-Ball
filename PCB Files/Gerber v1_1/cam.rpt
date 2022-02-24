@@ -1,0 +1,15 @@
+CAMtasticDXP Drill Report
+Serial Number:0000-00-00000
+Drill File: C:\Users\carlb\Dropbox\My Projects\RGB Ball\Gerber v1_1\cam.drl
+Format: 4.4
+Units: Metric (mm.)
+Step & Repeat Codes Used: NO
+
+
+TOOL		SIZE		COUNT
+====		======		=====
+
+ 1 		0.2000		1434
+ 2 		0.3000		18
+ 3 		0.4000		2
+ 4 		2.0000		2
