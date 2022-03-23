@@ -1,7 +1,6 @@
 # Ping-Pong-LED-Ball
-Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
-https://www.youtube.com/watch?v=5iIn6wOLhv4&t=40s
+Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
